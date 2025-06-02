@@ -4,7 +4,8 @@ Repositório com os exercícios do curso de Python do [Curso em Vídeo](https://
 
 ## ✅ Exercícios disponíveis
 
-- `ex036_aprovacao_emprestimo.py`: Verifica se um empréstimo pode ser concedido com base no valor da casa, salário e prazo de pagamento.
+ex036_aprovacao_emprestimo.py: Verifica se um empréstimo pode ser concedido com base no valor da casa, salário e prazo de pagamento.
+ex037_conversor_de_bases_numericas.py: Converte um número inteiro para binário, octal ou hexadecimal conforme escolha do usuário.
 
 ## 💻 Tecnologias usadas
 
