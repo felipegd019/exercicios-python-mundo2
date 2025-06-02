@@ -1,6 +1,6 @@
 # Exercícios Python - Mundo 2 🐍
 
-Repositório com os exercícios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/) - Módulo 2 (Estruturas de Controle).
+Repositório com os exercícios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/) - Mundo 2 (Estruturas de Controle).
 
 ## ✅ Exercícios disponíveis
 
