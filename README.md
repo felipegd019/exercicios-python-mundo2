@@ -1,16 +1,16 @@
 # Exercícios Python - Mundo 2 🐍
 
-Repositório com os exercícios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/) - Mundo 2 (Estruturas de Controle).
+Repositório com os exercícios do curso de Python do Curso em Vídeo - Mundo 2 (Estruturas de Controle).
 
 ## ✅ Exercícios disponíveis
 
-ex036_aprovacao_emprestimo.py: Verifica se um empréstimo pode ser concedido com base no valor da casa, salário e prazo de pagamento.
-ex037_conversor_de_bases_numericas.py: Converte um número inteiro para binário, octal ou hexadecimal conforme escolha do usuário.
-ex038_comparando_numeros.py: Compara dois números inteiros informados pelo usuário e indica qual é o maior, ou se ambos são iguais.
+- `ex036_aprovacao_emprestimo.py`: Verifica se um empréstimo pode ser concedido com base no valor da casa, salário e prazo de pagamento.
+- `ex037_conversor_de_bases_numericas.py`: Converte um número inteiro para binário, octal ou hexadecimal conforme escolha do usuário.
+- `ex038_comparando_numeros.py`: Compara dois números inteiros informados pelo usuário e indica qual é o maior, ou se ambos são iguais.
 
 ## 💻 Tecnologias usadas
 
-- Python 3.x
+- Python 3.x  
 - Editor: VS Code / IDLE / qualquer outro
 
 ## 📁 Estrutura
