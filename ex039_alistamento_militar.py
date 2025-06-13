@@ -1,8 +1,5 @@
-# Exercício 39 - Curso em Vídeo Python
-# Verifica situação de alistamento militar com base no ano de nascimento
-
 nascimento = int(input('Ano de nascimento: '))
-ano = 2017  # ano fixo usado no exercício
+ano = 2017  
 idade = ano - nascimento
 
 print(f'Quem nasceu em {nascimento} tem {idade} anos em {ano}.')
