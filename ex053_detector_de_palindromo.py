@@ -1,14 +1,14 @@
-frase = str(input('Digite uma frase: '))
-frase = frase.replace(' ', '')
-frase = frase.lower()
+frase = str(input('Digite uma frase: ')).lower()
+palavras = frase.split()
+junto = ''.join(palavras)
+inverso = ''
 
-ultima = len(frase)-1
-invertida = ''
+for i in range(len(junto) -1, -1, -1):
+    inverso = inverso + junto[i]
 
-for i in range(ultima ,-1 ,-1):
-    invertida = invertida + frase[i]
-    
-if frase == invertida:
-    print(f'A frase {frase} é um palindromo')
+if  inverso == frase:
+    print('A frase é um palindromo!')
 else:
-    print(f'A frase {frase} náo é um palindromo')
+    print('Não temos um palindromos')
+
+
